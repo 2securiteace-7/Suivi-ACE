@@ -1,7 +1,4 @@
-// Remplacez uniquement ces deux valeurs publiques, puis redéposez ce fichier sur GitHub.
-// Supabase > Project Settings > API : Project URL et clé publishable (ou anon).
-// N'ajoutez jamais une clé secret ou service_role à ce fichier.
 window.ASSEMBLEES_CONFIG = {
-  SUPABASE_URL: "",
-  SUPABASE_PUBLISHABLE_KEY: ""
+  SUPABASE_URL: "https://ceydwgznyyvqznrkdarr.supabase.co",
+  SUPABASE_PUBLISHABLE_KEY: "sb_publishable_QW3wr1167jZ8dxMNvNPeWw_u9RdN3Cv"
 };
